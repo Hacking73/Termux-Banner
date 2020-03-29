@@ -1,0 +1,7 @@
+apt update
+apt upgrade
+git clone https://GitHub.com/Hacking73/Termux-Baneer.git
+ls
+cd Termux-Baneer
+ls
+bash Termux-Baneer.sh
